@@ -6,4 +6,4 @@ YouTube Series:
 
 Textbooks and Research Papers:
 - ["Understanding Deep Learning" by Simon J. D. Prince ](https://udlbook.github.io/udlbook/)
-- ["Attention Is All You Need"  by A Vaswani et al](https://udlbook.github.io/udlbook/)
+- ["Attention Is All You Need"  by A Vaswani et al](https://arxiv.org/abs/1706.03762)
